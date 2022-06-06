@@ -1,4 +1,4 @@
-# NLW Together Front-end
+# NLW Together Origin
 
 ## 🧪 Technologies
 
