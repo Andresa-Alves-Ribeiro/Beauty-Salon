@@ -25,6 +25,12 @@ Utilitários
 
 Beauty Salon é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
 
+## Deploy
+
+Você pode visualizar o projeto finalizado clicando no link abaixo:
+
+https://beauty-salon-nu.vercel.app/
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
