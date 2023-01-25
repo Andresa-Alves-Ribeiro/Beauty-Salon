@@ -1,4 +1,6 @@
-![preview](https://user-images.githubusercontent.com/94997593/172456624-eca4d88b-e767-4fbc-9692-2f5c0942e4c7.png)
+## Beauty Salon
+
+![preview](https://user-images.githubusercontent.com/94997593/172251751-14f6e7ab-cdf5-41e4-aeeb-13603aa8a5fa.jpg)
 
 ## 🚀 Tecnologias
 
@@ -22,8 +24,6 @@ Utilitários
 ## 💻 Projeto
 
 Beauty Salon é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
-
-🔖 Layout
 
 ## 🔖 Layout
 
