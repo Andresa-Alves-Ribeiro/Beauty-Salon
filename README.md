@@ -1,4 +1,4 @@
-## Beauty Salon
+# Beauty Salon
 
 ![preview](https://user-images.githubusercontent.com/94997593/172251751-14f6e7ab-cdf5-41e4-aeeb-13603aa8a5fa.jpg)
 
